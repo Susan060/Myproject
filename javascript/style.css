@@ -1,0 +1,22 @@
+#btn
+{
+    background-color: aqua;
+    color:white;
+}
+
+#box
+{
+    height:350px;
+    width:100px;
+    background-color: dodgerblue;
+    color:white;
+    border:1 px solid black;
+}
+.black
+{
+    background-color: black;
+}
+.white
+{
+    background-color: white;
+}
